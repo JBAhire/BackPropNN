@@ -11,7 +11,7 @@ Pkg.add("BackpropNeuralNet")
 ## Source
 
 ```julia
-Pkg.clone()
+Pkg.clone(https://github.com/JBAhire/BackPropNN)
 ```
 
 # Usage
